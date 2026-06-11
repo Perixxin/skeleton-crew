@@ -58,6 +58,9 @@ The paid kit is the whole operating system:
   anonymous REST client, before shipping)
 - **`/payments`** — Stripe with raw-body webhook verification, replay-proof
   fulfillment, test-mode until *you* flip it
+- **`/sell`** — a storefront with automated delivery on your own Stripe:
+  payment link, signature-verified webhook, paid-session-gated downloads
+  (the kit literally sells itself through this skill's pipeline)
 - **`/feature`, `/launch-assets`, `/ship-check`** — and the templates
 - **3 crew agents** — adversarial reviewer, security, simplifier
 - **2 more enforced hooks** — secrets blocked from files *and* commits;
@@ -65,7 +68,7 @@ The paid kit is the whole operating system:
 - **The worked example** — a real Next.js 16 + Supabase app with its full
   ship-order → plan → evidence paper trail
 
-**Get it:** LEMON_SQUEEZY_LINK
+**Get it:** https://buy.stripe.com/fZueVd8P77Y04aH7UTf7i00
 
 *(14-day no-questions refunds. License: unlimited projects, just don't resell
 the kit itself.)*
