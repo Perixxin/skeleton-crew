@@ -62,6 +62,8 @@ The paid kit is the whole operating system:
   payment link, signature-verified webhook, paid-session-gated downloads
   (the kit literally sells itself through this skill's pipeline)
 - **`/feature`, `/launch-assets`, `/ship-check`** — and the templates
+- **MODEL-MIXING.md** — budget tier for the grind, strongest tier pinned on
+  reviewer/security; enforced gates hold the floor on any model
 - **3 crew agents** — adversarial reviewer, security, simplifier
 - **2 more enforced hooks** — secrets blocked from files *and* commits;
   a dock guard that won't let a session end with a dirty tree mid-ship
