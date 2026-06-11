@@ -61,6 +61,9 @@ The paid kit is the whole operating system:
 - **`/sell`** — a storefront with automated delivery on your own Stripe:
   payment link, signature-verified webhook, paid-session-gated downloads
   (the kit literally sells itself through this skill's pipeline)
+- **`/launch-ops`** — launch-day operations: thread monitoring, replies
+  drafted at comment-speed, per-batch-approved email pitches; the human
+  stays the only identity that ever posts (that boundary is the strategy)
 - **`/feature`, `/launch-assets`, `/ship-check`** — and the templates
 - **MODEL-MIXING.md** — budget tier for the grind, strongest tier pinned on
   reviewer/security; enforced gates hold the floor on any model
